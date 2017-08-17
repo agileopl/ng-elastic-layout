@@ -1,0 +1,28 @@
+{
+  "name": "ng-elastic-layout",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agileopl/ng-elastic-layout"
+  },
+  "author": {
+    "name": "Agileo.pl",
+    "email": "mkapinos@agileo.pl"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agileopl/ng-elastic-layout/issues"
+  },
+  "main": "ng-elastic-layout.umd.js",
+  "module": "ng-elastic-layout.js",
+  "jsnext:main": "ng-elastic-layout.js",
+  "typings": "ng-elastic-layout.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
