@@ -26,6 +26,7 @@
   "bugs": {
     "url": "https://github.com/agileopl/ng-elastic-layout/issues"
   },
+  
   "devDependencies": {
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
